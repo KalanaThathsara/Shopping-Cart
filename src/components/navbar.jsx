@@ -7,10 +7,10 @@ export const Navbar = () => {
   return (
     <>
       <div className="navbar">
-        <div className="Links">
+        <div className="links">
           <Link to="/">Shop</Link>
           <Link to="/cart">
-            <AiOutlineShoppingCart size={24} color="black" />
+            <AiOutlineShoppingCart size={24} color="white" />
           </Link>
         </div>
       </div>
